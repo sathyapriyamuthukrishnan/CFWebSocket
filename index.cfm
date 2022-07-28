@@ -22,7 +22,6 @@
 		<body>
 			<div id="main">
 				<h1>TIC TAC TOE using WebSockets</h1><br>
-				<h2>Player X</h2>
 
 				<p id="ins">Game starts by just Tap on box<br><br>First Player starts as<b> Player X</b><br>And<br>Second Player as <b>Player 0</b></p>
 
