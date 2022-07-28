@@ -1,6 +1,6 @@
 <cfoutput>
-	<cfscript>
 	<!--- Creating WebSocket connections using CFWebSocket tag --->
+	<cfscript>
 		cfwebsocket(
 			name="web_socket_obj",
 			onMessage="receiveMsgFromServer",
