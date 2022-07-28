@@ -1,4 +1,4 @@
-# TIC TAC TOE using CFWebSocket - Simple
+# Simple TIC TAC TOE using CFWebSocket
 
 
 Basic Websocket - Message publishing.
