@@ -1,4 +1,4 @@
 component {
-	this.name = createUUID();
+	this.name = 'tictactoe';
 	this.wschannels = [{name="web_socket"}]
 }
